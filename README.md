@@ -3,12 +3,12 @@ I wish I can finish this list as possible as I can🎋. <br/>
 (This list does not include the mathematic courses I have learned.) <br/>
 
 **What I have done:**
-- MIT 6.S081 Operating System Engineering 
-- MIT 6.001 Introduction to Computer Science and Programming in Python
-- MIT 6.Null The Missing Semester of Your CS Education
-- UCB CS61B Data Structures
-- UCB Data8 The Foundations of Data Science
-- UCB Data100 Principles and Techniques of Data Science
+- [x] MIT 6.S081 Operating System Engineering 
+- [x] MIT 6.001 Introduction to Computer Science and Programming in Python
+- [x] MIT 6.Null The Missing Semester of Your CS Education
+- [x] UCB CS61B Data Structures
+- [x] UCB Data8 The Foundations of Data Science
+- [x] UCB Data100 Principles and Techniques of Data Science
 
 **What I am learning now:**
 - UCB CS189 Introduction to Machine Learning
