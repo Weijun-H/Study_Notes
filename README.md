@@ -11,9 +11,9 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [x] UCB Data100 Principles and Techniques of Data Science
 
 **What I am learning now:**
-- UCB CS189 Introduction to Machine Learning
-- UCB CS170 Efficient Algorithms and Intractable Problems
-- UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
+- [ ] UCB CS189 Introduction to Machine Learning
+- [ ] UCB CS170 Efficient Algorithms and Intractable Problems
+- [ ] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
 
 **What I will study:**
 - UCB CS168 Operation System
