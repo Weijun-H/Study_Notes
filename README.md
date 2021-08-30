@@ -1,6 +1,7 @@
 # Study_Notes
-I wish I can finish this list as possible as I can🎋.
-(This list does not include the mathematic courses I have learned.)
+I wish I can finish this list as possible as I can🎋. <br/>
+(This list does not include the mathematic courses I have learned.) <br/>
+
 **What I have done:**
 - MIT 6.S081 Operating System Engineering 
 - MIT 6.001 Introduction to Computer Science and Programming in Python
