@@ -9,12 +9,12 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [x] UCB CS61B Data Structures
 - [x] UCB Data8 The Foundations of Data Science
 - [x] UCB Data100 Principles and Techniques of Data Science
+- [x] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
 
 **What I am learning now:**
 - [ ] UCB CS189 Introduction to Machine Learning
 - [ ] UCB CS170 Efficient Algorithms and Intractable Problems
-- [ ] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
-
+- [ ] UCB CS267 Applications of Parallel Computers
 **What I will study:**
 - UCB CS168 Operation System
 - UCB CS186 Introduction to Database Systems
