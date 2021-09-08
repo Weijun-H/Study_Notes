@@ -14,7 +14,8 @@ I wish I can finish this list as possible as I can🎋. <br/>
 **What I am learning now:**
 - [ ] UCB CS189 Introduction to Machine Learning
 - [ ] UCB CS170 Efficient Algorithms and Intractable Problems
-- [ ] UCB CS267 Applications of Parallel Computers
+- [ ] Standford CS149 Parallel Computing
+
 **What I will study:**
 - UCB CS168 Operation System
 - UCB CS186 Introduction to Database Systems
