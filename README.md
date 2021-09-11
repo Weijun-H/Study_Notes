@@ -22,3 +22,4 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - MIT 6.824 Distributed Systems
 - CMU 15-721 Advanced Database Systems
 - MIT 6.172 Performance Engineering of Software Systems
+- UCB CS169 Software Engineering	
