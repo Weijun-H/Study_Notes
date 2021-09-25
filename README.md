@@ -12,10 +12,12 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [x] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
 
 **What I am learning now:**
+- [ ] UCB CS161 Computer Security
+- [ ] Standford CS149 Parallel Computing
+- [ ] UCB CS164 Programming Languages and Compilers
+---
 - [ ] UCB CS189 Introduction to Machine Learning
 - [ ] UCB CS170 Efficient Algorithms and Intractable Problems
-- [ ] Standford CS149 Parallel Computing
-- [ ] UCB cs164 Programming Languages and Compilers
 
 
 **What I will study:**
