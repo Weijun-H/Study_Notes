@@ -10,19 +10,19 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [x] UCB Data8 The Foundations of Data Science
 - [x] UCB Data100 Principles and Techniques of Data Science
 - [x] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
+- [x] UCB CS161 Computer Security
+- [x] Standford CS149 Parallel Computing
+
 
 **What I am learning now:**
-- [ ] UCB CS161 Computer Security
-- [ ] Standford CS149 Parallel Computing
+- [ ] UCB CS186 Introduction to Database Systems
 - [ ] UCB CS164 Programming Languages and Compilers
 ---
-- [ ] UCB CS189 Introduction to Machine Learning
 - [ ] UCB CS170 Efficient Algorithms and Intractable Problems
 
 
 **What I will study:**
 - UCB CS168 Operation System
-- UCB CS186 Introduction to Database Systems
 - MIT 6.824 Distributed Systems
 - CMU 15-721 Advanced Database Systems
 - MIT 6.172 Performance Engineering of Software Systems
