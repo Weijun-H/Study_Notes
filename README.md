@@ -18,14 +18,13 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [ ] UCB CS186 Introduction to Database Systems
 - [ ] UCB CS164 Programming Languages and Compilers
 ---
-- [ ] UCB CS170 Efficient Algorithms and Intractable Problems
-
 
 **What I will study:**
 - UCB CS168 Operation System
 - MIT 6.824 Distributed Systems
 - CMU 15-721 Advanced Database Systems
 - MIT 6.172 Performance Engineering of Software Systems
+- MIT 6.033 Computer System Engineering
 - UCB CS169 Software Engineering	
 
 ## Data Structure and Algorithm
@@ -39,7 +38,6 @@ I wish I can finish this list as possible as I can🎋. <br/>
 ## Computer System
 ### 1. Operating System
 - [x] MIT 6.S081 Operating System Engineering 
-- [ ] UCB CS168 Operation System
 
 ### 2. Complier
 - [ ] UCB cs164 Programming Languages and Compilers
