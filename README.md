@@ -12,16 +12,16 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [x] UCB CS61C Great Ideas in Computer Architecture (Machine Structures)
 - [x] UCB CS161 Computer Security
 - [x] Standford CS149 Parallel Computing
+- [x] UCB CS186 Introduction to Database Systems
 
 
 **What I am learning now:**
-- [ ] UCB CS186 Introduction to Database Systems
-- [ ] UCB CS164 Programming Languages and Compilers
+- [ ] MIT 6.824 Distributed Systems
+- [ ] MIT 6.033 Computer System Engineering
+
 ---
 
 **What I will study:**
-- UCB CS168 Operation System
-- MIT 6.824 Distributed Systems
 - CMU 15-721 Advanced Database Systems
 - MIT 6.172 Performance Engineering of Software Systems
 - MIT 6.033 Computer System Engineering
@@ -47,7 +47,7 @@ I wish I can finish this list as possible as I can🎋. <br/>
 - [ ] Standford CS144 Computer Networking
 
 ### 4. Parallel Computing
-- [ ] Standford CS149 Parallel Computing
+- [x] Standford CS149 Parallel Computing
 
 ### 5. Distributed System
 - [ ] MIT 6.824 Distributed Systems
@@ -55,4 +55,3 @@ I wish I can finish this list as possible as I can🎋. <br/>
 ## Data Science
 - [x] UCB Data8 The Foundations of Data Science
 - [x] UCB Data100 Principles and Techniques of Data Science
-- [ ] UCB CS189 Introduction to Machine Learning
